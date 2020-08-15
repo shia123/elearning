@@ -93,6 +93,7 @@ div.gallery:hover {
     text-shadow: 2px 2px white;
   }
  h2{
+  padding-top: 100px;
     margin-left: 10px; 
     margin-top: 150px;
       font-family: cursive;
